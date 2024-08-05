@@ -1,0 +1,238 @@
+[
+    {
+        "work_experience": [
+            {
+                "job_title": "Financial Analyst",
+                "company": "JP Morgan Chase & Co., New York, NY",
+                "time": "June 2019 - Present",
+                "descriptions": [
+                    "Conducted in-depth financial analysis and provided strategic insights to support decision-making processes.",
+                    "Led ad-hoc special projects, meeting materials preparation, and monthly financial activities.",
+                    "Collaborated with Corporate Technology and Global Technology Finance & Business Management teams on budget planning, forecasting, and reporting."
+                ]
+            },
+            {
+                "job_title": "Financial Analyst",
+                "company": "Salesforce, San Francisco, CA",
+                "time": "August 2016 - May 2019",
+                "descriptions": [
+                    "Analyzed Corporate Technology expenses and managed Profit & Loss statements.",
+                    "Developed and implemented process improvements to streamline financial operations.",
+                    "Presented monthly variance analysis reports to senior management for decision-making purposes."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration",
+                "university": "University of California, Berkeley",
+                "time": "September 2012 - June 2016",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in Microsoft Office Suite (Excel, PowerPoint, Word)",
+            "Financial Management and Analysis",
+            "Business Process Improvement",
+            "Advanced Data Interpretation and Communication",
+            "Project Management Knowledge"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Financial Analyst",
+                "company": "Morgan Stanley, New York, NY",
+                "time": "July 2018 - Present",
+                "descriptions": [
+                    "Led various ad-hoc projects, providing strategic financial analysis and actionable insights.",
+                    "Managed monthly financial activities and coordinated cross-departmental communications for efficiency.",
+                    "Conducted in-depth variance analysis and presented findings to senior management for decision-making."
+                ]
+            },
+            {
+                "job_title": "Financial Analyst",
+                "company": "Apple Inc., Cupertino, CA",
+                "time": "August 2015 - June 2018",
+                "descriptions": [
+                    "Analyzed Corporate Technology expenses and implemented cost-saving measures.",
+                    "Collaborated with teams to improve processes and automate financial reporting.",
+                    "Supported budget planning, forecasting, and vendor management initiatives."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Arts in Economics",
+                "university": "University of Chicago",
+                "time": "September 2011 - May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in Microsoft Office Suite (Excel, PowerPoint, Word)",
+            "Financial Analysis and Modeling",
+            "Process Improvement and Automation",
+            "Data Visualization and Interpretation",
+            "Effective Communication and Presentation Skills"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Financial Analyst",
+                "company": "TechX Solutions, Austin, TX",
+                "time": "May 2020 - Present",
+                "descriptions": [
+                    "Managed ad-hoc special projects, ensuring timely delivery and stakeholder satisfaction.",
+                    "Conducted monthly financial activities and variance analysis, aiding in decision-making processes.",
+                    "Collaborated with Corporate Technology and Global Technology Finance teams on budget planning and forecasting.",
+                    "Contributed to process improvements to enhance team efficiency."
+                ]
+            },
+            {
+                "job_title": "Business Analyst",
+                "company": "InnoCorp Solutions, Portland, OR",
+                "time": "July 2017 - April 2020",
+                "descriptions": [
+                    "Provided data-driven insights to support strategic decision-making for senior management.",
+                    "Conducted financial analysis and prepared reports for monthly meetings.",
+                    "Utilized Microsoft Excel for financial analysis and data visualization.",
+                    "Assisted in process optimization initiatives to improve workflow efficiency."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration in Finance",
+                "university": "University of Texas at San Antonio, TX",
+                "time": "Graduated: May 2017",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficiency in Microsoft Office Suite, including Excel for financial analysis",
+            "Strong analytical and problem-solving abilities",
+            "Effective communication and presentation skills",
+            "Experience in process optimization"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Financial Analyst",
+                "company": "Smithfield Foods, Kansas City, MO",
+                "time": "August 2020 - Present",
+                "descriptions": [
+                    "Managed special projects, ensuring timely delivery and stakeholder satisfaction.",
+                    "Conducted monthly financial activities and variance analysis, facilitating decision-making.",
+                    "Collaborated with Corporate Finance teams on budget planning and forecasting.",
+                    "Implemented process improvements to streamline operations."
+                ]
+            },
+            {
+                "job_title": "Business Analyst",
+                "company": "Molson Coors Beverage Company, Denver, CO",
+                "time": "March 2018 - July 2020",
+                "descriptions": [
+                    "Provided data-driven insights for strategic decision-making.",
+                    "Conducted financial analysis and prepared reports for monthly meetings.",
+                    "Utilized advanced Excel functions for financial modeling and data analysis.",
+                    "Contributed to process optimization initiatives, enhancing efficiency."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Finance",
+                "university": "University of Missouri-Kansas City",
+                "time": "Graduated: May 2018",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Advanced proficiency in Microsoft Excel, including VLOOKUP and PivotTables",
+            "Strong analytical and problem-solving abilities",
+            "Excellent communication and presentation skills",
+            "Experience in process optimization and data visualization"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Financial Advisor Assistant",
+                "company": "Morgan Stanley Wealth Management, Columbus, OH",
+                "time": "May 2022 - August 2022",
+                "descriptions": [
+                    "Provided administrative support to financial advisors, including scheduling client meetings and preparing documentation.",
+                    "Assisted in analyzing investment portfolios and preparing performance reports.",
+                    "Collaborated with team members on client engagement strategies."
+                ]
+            },
+            {
+                "job_title": "Personal Banker",
+                "company": "JPMorgan Chase, New York, NY",
+                "time": "September 2019 - December 2021",
+                "descriptions": [
+                    "Provided comprehensive financial guidance and solutions to clients, including banking, lending, and investment products.",
+                    "Managed client portfolios and conducted periodic reviews to ensure alignment with financial goals.",
+                    "Collaborated with team members to achieve branch sales targets and deliver exceptional service."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration in Finance",
+                "university": "New York University, NYU",
+                "time": "September 2015 - May 2019",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in Microsoft Office Suite (Excel, PowerPoint)",
+            "Strong analytical and quantitative skills",
+            "Excellent interpersonal and communication abilities"
+        ],
+        "label": "low_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Customer Service Representative",
+                "company": "Bank of America, Charlotte, NC",
+                "time": "June 2019 - Present",
+                "descriptions": [
+                    "Handled customer inquiries, resolved account issues, and processed financial transactions.",
+                    "Provided support to clients regarding banking products and services, ensuring satisfaction and compliance with banking regulations."
+                ]
+            },
+            {
+                "job_title": "Loan Processor",
+                "company": "Quicken Loans, Detroit, MI",
+                "time": "March 2018 - June 2019",
+                "descriptions": [
+                    "Reviewed loan applications, collected and verified applicant information, and prepared loan documents for underwriting.",
+                    "Coordinated with borrowers, loan officers, and underwriters to facilitate the loan approval process within established timelines."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration in Finance",
+                "university": "University of Michigan, Ann Arbor, MI",
+                "time": "Graduated May 2017",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in Microsoft Office Suite, particularly Excel",
+            "Strong analytical and problem-solving skills",
+            "Excellent communication and interpersonal abilities"
+        ],
+        "label": "low_chance"
+    }
+]

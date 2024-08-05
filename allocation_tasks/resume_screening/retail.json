@@ -1,0 +1,244 @@
+[
+    {
+        "work_experience": [
+            {
+                "job_title": "Sales Manager",
+                "company": "Best Buy, New York City, NY",
+                "time": "June 2019 - Present",
+                "descriptions": [
+                    "Orchestrated a customer-centric approach, boosting sales by 30% within the first year.",
+                    "Supervised a team of 15 sales associates, emphasizing product knowledge and tailored service.",
+                    "Implemented inventory optimization strategies, reducing stockouts by 20%."
+                ]
+            },
+            {
+                "job_title": "Assistant Manager",
+                "company": "Macy's, Los Angeles, CA",
+                "time": "January 2015 - May 2019",
+                "descriptions": [
+                    "Supported daily operations, ensuring seamless customer experiences and compliance with company standards.",
+                    "Collaborated with the business team to execute effective sales strategies, resulting in a 25% increase in revenue.",
+                    "Trained and mentored new hires, fostering a culture of excellence and teamwork."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration (BBA)",
+                "university": "New York University (NYU), New York City, NY",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Leadership and team development",
+            "Exceptional customer service",
+            "Operations management",
+            "Inventory control and visual merchandising",
+            "Cross-functional collaboration",
+            "Multilingual proficiency in Spanish and French"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Retail Manager",
+                "company": "Apple, Cupertino, CA",
+                "time": "August 2018 - Present",
+                "descriptions": [
+                    "Spearheaded initiatives resulting in a 25% increase in customer satisfaction scores.",
+                    "Managed a team of 20 retail specialists, fostering a culture of innovation and customer engagement.",
+                    "Implemented efficient inventory management strategies, reducing excess stock by 15%."
+                ]
+            },
+            {
+                "job_title": "Assistant Store Manager",
+                "company": "Nike, Portland, OR",
+                "time": "March 2015 - July 2018",
+                "descriptions": [
+                    "Coordinated store operations, ensuring seamless customer experiences and adherence to brand standards.",
+                    "Collaborated with the sales team to achieve monthly targets, resulting in consistent revenue growth.",
+                    "Conducted training sessions on product knowledge and sales techniques, enhancing team performance."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Business Administration",
+                "university": "University of California, Berkeley, CA",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Leadership and team development",
+            "Customer experience enhancement",
+            "Operational efficiency improvement",
+            "Inventory management",
+            "Strategic planning and execution",
+            "Multilingual proficiency in Mandarin and Spanish"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Senior Sales Associate",
+                "company": "Tech Corner, Charlotte, NC",
+                "time": "August 2018 - Present",
+                "descriptions": [
+                    "Led a team in surpassing sales targets consistently by fostering exceptional customer service.",
+                    "Implemented inventory management strategies and visual merchandising techniques effectively.",
+                    "Provided comprehensive technical support and training to staff, ensuring product proficiency."
+                ]
+            },
+            {
+                "job_title": "Assistant Manager",
+                "company": "Mobile Solutions, Folsom, CA",
+                "time": "June 2015 - July 2018",
+                "descriptions": [
+                    "Directed sales operations, optimizing customer experiences and driving revenue growth.",
+                    "Introduced innovative solutions to streamline processes, enhancing operational efficiency.",
+                    "Mentored and developed staff to cultivate a collaborative and high-performance work environment."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Business Administration (BBA)",
+                "university": "City College of San Francisco, CA",
+                "time": "Graduation: May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Leadership and team development",
+            "Sales strategy and customer service excellence",
+            "Inventory management and visual merchandising",
+            "Adaptability in fast-paced environments",
+            "Multilingual proficiency (English, Spanish)"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Senior Sales Associate",
+                "company": "River's Edge Outdoor Gear, Portland, OR",
+                "time": "August 2018 - Present",
+                "descriptions": [
+                    "Led a team to consistently meet and exceed sales targets in outdoor gear retail.",
+                    "Implemented effective inventory management and merchandising strategies.",
+                    "Provided personalized customer service, fostering strong relationships with clientele."
+                ]
+            },
+            {
+                "job_title": "Assistant Manager",
+                "company": "Fresh Harvest Grocery, Richmond, VA",
+                "time": "June 2015 - July 2018",
+                "descriptions": [
+                    "Managed daily store operations, including inventory control and staff supervision, in a bustling grocery environment.",
+                    "Developed and executed marketing initiatives, resulting in increased foot traffic and sales.",
+                    "Conducted employee training programs to ensure high standards of customer service."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Arts in English Literature",
+                "university": "George Mason University, Fairfax, VA",
+                "time": "Graduation: May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Leadership and team development",
+            "Sales strategy and customer service excellence",
+            "Inventory management and visual merchandising",
+            "Analytical skills for cost-effective operations",
+            "Multilingual proficiency (English, Spanish)"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Sales Associate",
+                "company": "Walmart, San Francisco, CA",
+                "time": "June 2019 - Present",
+                "descriptions": [
+                    "Provided exceptional customer service and operated the cash register",
+                    "Maintained cleanliness and organization of the sales floor",
+                    "Assisted with inventory management and restocking"
+                ]
+            },
+            {
+                "job_title": "Cashier",
+                "company": "7-Eleven, San Francisco, CA",
+                "time": "March 2017 - May 2019",
+                "descriptions": [
+                    "Processed customer transactions efficiently and accurately",
+                    "Managed cash register and balanced cash drawer daily",
+                    "Assisted with stocking shelves and maintaining store appearance"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Psychology",
+                "university": "University of Phoenix, AZ",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Excellent communication and interpersonal skills",
+            "Strong attention to detail and accuracy in cash handling",
+            "Ability to work effectively in a fast-paced retail environment",
+            "Basic knowledge of inventory management",
+            "Proficient in Microsoft Office Suite"
+        ],
+        "label": "low_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Sales Associate",
+                "company": "Joe's Discount Emporium, Urbana, IL",
+                "time": "July 2019 - Present",
+                "descriptions": [
+                    "Provided personalized customer service, assisting shoppers with inquiries and purchases",
+                    "Maintained organization and cleanliness of assigned departments",
+                    "Supported inventory management by restocking shelves and monitoring product levels"
+                ]
+            },
+            {
+                "job_title": "Cashier",
+                "company": "Marty's Corner Store, Springfield, IL",
+                "time": "February 2017 - June 2019",
+                "descriptions": [
+                    "Processed transactions accurately and efficiently using POS system",
+                    "Handled customer inquiries and resolved issues with professionalism",
+                    "Assisted with inventory tasks and ensured proper stock rotation"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Arts in History",
+                "university": "Springfield University, Springfield, IL",
+                "time": "Graduated May 2016",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Strong communication and interpersonal skills, able to interact effectively with diverse customers",
+            "Detail-oriented with a focus on accuracy in cash handling and transaction processing",
+            "Proficient in Microsoft Office applications and capable of learning new software quickly",
+            "Ability to adapt to fast-paced environments and work collaboratively in team settings",
+            "Passionate about providing excellent customer service and contributing to a positive shopping experience"
+        ],
+        "label": "low_chance"
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "work_experience": [
+            {
+                "job_title": "Senior Software Engineer",
+                "company": "Google, Mountain View, CA",
+                "time": "May 2018 - Present",
+                "descriptions": [
+                    "Developed and optimized scalable software solutions for diverse projects, enhancing user experience and platform efficiency.",
+                    "Led design reviews, ensuring alignment with project goals and best practices.",
+                    "Provided constructive feedback on code quality and adherence to coding standards.",
+                    "Managed project priorities, deadlines, and deliverables to meet business objectives."
+                ]
+            },
+            {
+                "job_title": "Software Developer",
+                "company": "Amazon Web Services, Seattle, WA",
+                "time": "August 2015 - April 2018",
+                "descriptions": [
+                    "Contributed to the development and testing of product features, enhancing functionality and performance.",
+                    "Collaborated with cross-functional teams to address technical challenges and implement innovative solutions.",
+                    "Reviewed code submissions, ensuring compliance with coding standards and optimizing for efficiency.",
+                    "Triaged and resolved system issues, analyzing impact on operations and implementing effective resolutions."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "Stanford University, Stanford, CA",
+                "time": "September 2011 - June 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in programming languages including Java, Python, and C++",
+            "Strong understanding of distributed computing, networking, and data storage",
+            "Experience with cloud technologies and enterprise-grade solutions",
+            "Excellent problem-solving and analytical skills",
+            "Effective communicator and team player"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Software Engineer",
+                "company": "Facebook, Houston, TX",
+                "time": "June 2017 - Present",
+                "descriptions": [
+                    "Developed scalable software solutions using cutting-edge technologies to meet client needs.",
+                    "Led design reviews, ensuring alignment with project requirements.",
+                    "Reviewed code for adherence to best practices and provided constructive feedback.",
+                    "Managed project priorities, deadlines, and deliverables, ensuring successful completion."
+                ]
+            },
+            {
+                "job_title": "Junior Software Developer",
+                "company": "Intel Corporation, Folsom, CA",
+                "time": "August 2015 - May 2017",
+                "descriptions": [
+                    "Collaborated with cross-functional teams to write and test product development code.",
+                    "Contributed to design reviews, evaluating available technologies.",
+                    "Assisted in triaging product issues, debugging, and resolving issues impacting operations and quality."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "Carnegie Mellon University, Pittsburgh, PA",
+                "time": "September 2011 - May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in multiple programming languages including Java, Python, and JavaScript.",
+            "Strong understanding of distributed computing, networking, and data storage.",
+            "Experience with security protocols and artificial intelligence techniques.",
+            "Skilled in UI design principles and mobile application development.",
+            "Excellent problem-solving abilities and adaptability in fast-paced environments."
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Software Engineer",
+                "company": "Hypernova Technologies, Houston, TX",
+                "time": "May 2017 - Present",
+                "descriptions": [
+                    "Developed scalable software solutions leveraging cutting-edge technologies. Led design reviews and provided feedback on code quality. Managed project priorities and deadlines to deliver enterprise-grade solutions. Contributed to documentation and educational content updates. Tackled product issues by analyzing hardware, network, and service operations."
+                ]
+            },
+            {
+                "job_title": "Junior Software Developer",
+                "company": "QuarkSoft Solutions, Columbus, GA",
+                "time": "August 2013 - April 2017",
+                "descriptions": [
+                    "Contributed to the development and testing of product code. Participated in design reviews to evaluate available technologies. Reviewed and provided feedback on code quality. Assisted in debugging and resolving product issues impacting service operations and quality."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "Georgia Institute of Technology, Atlanta, GA",
+                "time": "August 2013 - May 2017",
+                "descriptions": [
+                    "Graduated with honors, specializing in software engineering and distributed computing."
+                ]
+            }
+        ],
+        "skills": [
+            "Proficient in Java, Python, and C++",
+            "Strong understanding of distributed computing and large-scale system design",
+            "Knowledgeable in artificial intelligence and natural language processing",
+            "Experienced in UI design and mobile development",
+            "Skilled in debugging and issue resolution"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Software Engineer",
+                "company": "TechBridge Innovations, San Jose, CA",
+                "time": "August 2020 - Present",
+                "descriptions": [
+                    "Designed and implemented scalable solutions for data storage and networking.",
+                    "Conducted design reviews and provided feedback on code quality.",
+                    "Managed project priorities and deadlines to ensure timely delivery of software solutions.",
+                    "Contributed to documentation and educational content updates based on user feedback."
+                ]
+            },
+            {
+                "job_title": "Software Developer",
+                "company": "PulsePoint Solutions, Berkeley, CA",
+                "time": "June 2018 - July 2020",
+                "descriptions": [
+                    "Developed AI-driven features for web applications.",
+                    "Collaborated with cross-functional teams to enhance user interfaces and user experiences.",
+                    "Investigated and resolved system issues to maintain optimal service operations."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "Santa Clara University, CA",
+                "time": "August 2014 - May 2018",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in Java, R, and JavaScript",
+            "Experience with distributed computing and network security",
+            "Strong understanding of artificial intelligence and web application development",
+            "Familiarity with cloud technologies and enterprise-grade solutions",
+            "Excellent problem-solving and communication skills"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Technical Support Representative",
+                "company": "Best Buy, Richfield, Minnesota",
+                "time": "July 2018 - Present",
+                "descriptions": [
+                    "Provided technical support to customers, troubleshooting issues with electronics and software products.",
+                    "Collaborated with team members to resolve complex technical problems and ensure customer satisfaction.",
+                    "Developed strong problem-solving and communication skills through assisting diverse clientele."
+                ]
+            },
+            {
+                "job_title": "Junior Data Analyst",
+                "company": "State Farm Insurance, Bloomington, Illinois",
+                "time": "January 2016 - June 2018",
+                "descriptions": [
+                    "Analyzed data and generated reports to support decision-making processes.",
+                    "Assisted in the development and implementation of data management strategies.",
+                    "Demonstrated attention to detail and reliability in handling sensitive information."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "University of Alabama, Tuscaloosa, AL",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in programming languages such as Java and Python",
+            "Strong problem-solving abilities with attention to detail",
+            "Excellent communication and teamwork skills",
+            "Experience in data analysis and reporting",
+            "Eagerness to learn and adapt to new technologies and challenges"
+        ],
+        "label": "low_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "IT Support Specialist",
+                "company": "Target Corporation, Minneapolis, Minnesota",
+                "time": "July 2018 - Present",
+                "descriptions": [
+                    "Provided technical support to employees, resolving hardware and software issues.",
+                    "Collaborated with IT team to troubleshoot and implement solutions for network and system problems.",
+                    "Developed strong problem-solving and communication skills in a fast-paced retail environment."
+                ]
+            },
+            {
+                "job_title": "Junior Systems Administrator",
+                "company": "MetLife Insurance Company, New York City",
+                "time": "January 2016 - June 2018",
+                "descriptions": [
+                    "Assisted in managing and maintaining company servers and networks.",
+                    "Supported IT team in troubleshooting and resolving system issues.",
+                    "Gained experience in system administration and network security practices."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Information Technology",
+                "university": "University of Michigan, Ann Arbor, MI",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Proficient in scripting languages such as PowerShell and Bash",
+            "Strong troubleshooting and problem-solving abilities",
+            "Excellent communication and teamwork skills",
+            "Familiarity with network administration and security concepts",
+            "Eagerness to learn and adapt to new technologies and environments"
+        ],
+        "label": "low_chance"
+    }
+]

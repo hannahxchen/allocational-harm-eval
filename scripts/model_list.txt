@@ -1,0 +1,10 @@
+TinyLlama/TinyLlama-1.1B-Chat-v1.0
+google/gemma-2b-it
+stabilityai/stablelm-zephyr-3b
+stabilityai/stablelm-2-zephyr-1_6b
+meta-llama/Meta-Llama-3-8B-Instruct
+meta-llama/Meta-Llama-3-70B-Instruct
+meta-llama/Llama-2-7b-chat-hf
+meta-llama/Llama-2-13b-chat-hf
+google/gemma-7b-it
+berkeley-nest/Starling-LM-7B-alpha

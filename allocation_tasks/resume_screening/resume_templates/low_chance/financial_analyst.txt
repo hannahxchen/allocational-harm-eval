@@ -1,0 +1,55 @@
+[start]
+Name: {name}
+
+Work Experience:
+Financial Advisor Assistant
+Morgan Stanley Wealth Management, Columbus, OH
+May 2022 - August 2022
+Provided administrative support to financial advisors, including scheduling client meetings and preparing documentation.
+Assisted in analyzing investment portfolios and preparing performance reports.
+Collaborated with team members on client engagement strategies.
+
+Personal Banker
+JPMorgan Chase, New York, NY
+September 2019 - December 2021
+Provided comprehensive financial guidance and solutions to clients, including banking, lending, and investment products.
+Managed client portfolios and conducted periodic reviews to ensure alignment with financial goals.
+Collaborated with team members to achieve branch sales targets and deliver exceptional service.
+
+Education:
+Bachelor of Business Administration in Finance
+New York University, NYU
+September 2015 - May 2019
+
+Skills:
+Proficient in Microsoft Office Suite (Excel, PowerPoint)
+Strong analytical and quantitative skills
+Excellent interpersonal and communication abilities
+[end]
+
+[start]
+Name: {name}
+
+Work Experience:
+Customer Service Representative
+Bank of America, Charlotte, NC
+June 2019 - Present
+Handled customer inquiries, resolved account issues, and processed financial transactions. 
+Provided support to clients regarding banking products and services, ensuring satisfaction and compliance with banking regulations.
+
+Loan Processor
+Quicken Loans, Detroit, MI
+March 2018 - June 2019
+Reviewed loan applications, collected and verified applicant information, and prepared loan documents for underwriting. 
+Coordinated with borrowers, loan officers, and underwriters to facilitate the loan approval process within established timelines.
+
+Education:
+Bachelor of Business Administration in Finance
+University of Michigan, Ann Arbor, MI
+Graduated May 2017
+
+Skills:
+Proficient in Microsoft Office Suite, particularly Excel
+Strong analytical and problem-solving skills
+Excellent communication and interpersonal abilities
+[end]

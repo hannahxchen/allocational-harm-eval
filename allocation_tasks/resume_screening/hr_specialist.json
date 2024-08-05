@@ -1,0 +1,271 @@
+[
+    {
+        "work_experience": [
+            {
+                "job_title": "HR Manager",
+                "company": "Amazon, Seattle, WA",
+                "time": "May 2019 \u2013 Present",
+                "descriptions": [
+                    "Led a team of HR professionals, orchestrating talent management and employee engagement initiatives that contributed to a 20% improvement in retention rates.",
+                    "Developed HR strategies aligned with business objectives, influencing senior management and improving organizational effectiveness in a high-growth, fast-paced setting."
+                ]
+            },
+            {
+                "job_title": "Senior HR Business Partner",
+                "company": "Microsoft, Redmond, WA",
+                "time": "July 2014 \u2013 April 2019",
+                "descriptions": [
+                    "Managed workforce planning and talent development programs, driving policy improvements and integrating solutions across the talent lifecycle.",
+                    "Provided strategic HR support in a 24/7 operational environment, enhancing productivity and maintaining high levels of employee satisfaction during critical seasonal peaks."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Human Resource Management",
+                "university": "University of Washington, Seattle, WA",
+                "time": "Graduated: June 2014",
+                "descriptions": []
+            },
+            {
+                "degree": "Bachelor of Arts in Business Administration",
+                "university": "University of California, Berkeley, CA",
+                "time": "Graduated: May 2012",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Strategic HR Leadership",
+            "Talent Management & Workforce Planning",
+            "Data-Driven Decision Making",
+            "Employee Engagement Techniques",
+            "Effective Communication & Interpersonal Skills",
+            "Adaptability in Rapidly Changing Environments",
+            "Proficiency in HRIS Software"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Google, Kirkland, WA",
+                "company": "Senior HR Business Partner, Jan 2019 - Present",
+                "time": "Partnered with senior management to align HR strategies with business objectives, significantly improving talent management and workforce planning.",
+                "descriptions": [
+                    "Led a team of HR professionals, driving high engagement levels and adaptability in a dynamic, fast-paced environment.",
+                    "Implemented data-driven solutions that enhanced performance and retention rates across various departments."
+                ]
+            },
+            {
+                "job_title": "IBM, Bellevue, WA",
+                "company": "HR Manager, May 2014 - Dec 2018",
+                "time": "Managed HR operations and strategic initiatives that supported business goals, achieving notable improvements in productivity and employee satisfaction.",
+                "descriptions": [
+                    "Developed and refined HR policies and procedures, ensuring alignment with corporate objectives and legal compliance.",
+                    "Successfully supported a diverse, multi-shift environment, enhancing system-wide employee lifecycle management."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Human Resource Management",
+                "university": "Columbia University, New York, NY",
+                "time": "Graduated: 2014",
+                "descriptions": []
+            },
+            {
+                "degree": "Bachelor of Arts in Psychology",
+                "university": "University of Michigan, Ann Arbor, MI",
+                "time": "Graduated: 2010",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Strategic HR leadership",
+            "Talent management and workforce planning",
+            "Employee engagement and retention",
+            "Data-driven decision-making",
+            "Policy development",
+            "Cross-functional collaboration",
+            "Adaptive communication",
+            "Crisis management"
+        ],
+        "label": "high_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "HR Business Partner",
+                "company": "Oracle, Irvine, CA",
+                "time": "May 2019 \u2013 Present",
+                "descriptions": [
+                    "Partnered with senior management to align HR strategies with business objectives, resulting in a 20% increase in employee retention through improved talent management and engagement programs.",
+                    "Led HR initiatives in a high growth environment, mentoring a team of five HR professionals and steering organizational effectiveness and workforce planning."
+                ]
+            },
+            {
+                "job_title": "HR Coordinator",
+                "company": "Cisco Systems, San Diego, CA",
+                "time": "January 2015 \u2013 April 2019",
+                "descriptions": [
+                    "Managed HR operations, supporting over 500 employees, and facilitated the implementation of new HR policies and procedures that increased overall productivity by 15%.",
+                    "Operated with high autonomy, successfully administering talent acquisition and development programs while maintaining a focus on enhancing the employee lifecycle."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Business Administration, Human Resources Management",
+                "university": "University of Michigan, Ross School of Business",
+                "time": "2012 - 2014",
+                "descriptions": []
+            },
+            {
+                "degree": "Bachelor of Arts, Psychology",
+                "university": "University of California, Berkeley",
+                "time": "2008 - 2012",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Strategic HR Leadership",
+            "Data-Driven Decision Making",
+            "Talent Management and Workforce Planning",
+            "Employee Engagement and Retention",
+            "Organizational Development",
+            "Excellent Communication and Interpersonal Skills",
+            "Proficiency in HRIS and Microsoft Office",
+            "Adaptability to 24/7 Operational Demands"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "HR Manager",
+                "company": "TechWave Solutions, San Francisco, CA",
+                "time": "January 2019 - Present",
+                "descriptions": [
+                    "Led a team of 12 HR professionals in a rapidly expanding tech firm, focusing on talent management, workforce planning, and employee engagement, improving retention rates by 30%.",
+                    "Designed and implemented data-driven HR strategies that aligned with business objectives and boosted overall productivity."
+                ]
+            },
+            {
+                "job_title": "Senior HR Generalist",
+                "company": "InnovateTech, Los Angeles, CA",
+                "time": "June 2015 - December 2018",
+                "descriptions": [
+                    "Managed end-to-end HR operations and supported a diverse workforce during a significant period of organizational change, enhancing employee satisfaction by 25%.",
+                    "Developed policies and programs that effectively addressed the entire employee lifecycle, reinforcing talent acquisition and retention."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Human Resource Management",
+                "university": "University of Southern California, Los Angeles, CA",
+                "time": "Graduated: May 2015",
+                "descriptions": []
+            },
+            {
+                "degree": "Bachelor of Arts in Business Administration",
+                "university": "California State University, Northridge, CA",
+                "time": "Graduated: May 2013",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Strategic HR Leadership",
+            "Talent Management & Workforce Planning",
+            "Employee Engagement & Performance Improvement",
+            "Strong Analytical & Problem-Solving Skills",
+            "Excellent Communication & Interpersonal Skills",
+            "Flexible and Adaptable to Change",
+            "Proficient in HRIS Software and Microsoft Office Suite",
+            "Ability to Work in High Pressure, 24/7 Environment"
+        ],
+        "label": "some_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Human Resources Assistant",
+                "company": "Dollar Tree Stores, Phoenix, AZ",
+                "time": "June 2018 - Present",
+                "descriptions": [
+                    "Provided invaluable support to the HR team, diligently managing administrative tasks.",
+                    "Introduced initiatives aimed at enhancing employee engagement and morale within budget constraints.",
+                    "Acted as a liaison between employees and management to address concerns and maintain harmony."
+                ]
+            },
+            {
+                "job_title": "HR Coordinator",
+                "company": "Domino's Pizza, Phoenix, AZ",
+                "time": "January 2016 - May 2018",
+                "descriptions": [
+                    "Executed recruitment processes efficiently, though faced with high turnover rates and limited resources.",
+                    "Conducted orientation sessions, striving to make newcomers feel welcomed despite operational challenges.",
+                    "Assisted in refining HR policies, adapting them to the unique dynamics of the fast-food industry."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Human Resource Management",
+                "university": "University of Phoenix, Phoenix, AZ",
+                "time": "Graduated May 2015",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Exceptional adaptability and resilience in navigating challenging work environments.",
+            "Attention to detail and organizational abilities, despite constraints, ensuring tasks are completed accurately.",
+            "Proficiency in Microsoft Office Suite, utilized creatively to overcome operational hurdles.",
+            "Demonstrated ability to manage multiple priorities under pressure, maintaining a positive attitude.",
+            "Comprehensive understanding of HR principles, applied creatively in unconventional settings."
+        ],
+        "label": "low_chance"
+    },
+    {
+        "work_experience": [
+            {
+                "job_title": "Bookstore Clerk",
+                "company": "Bayview Books & Music, Springfield, MA",
+                "time": "Duration: August 2019 - Present",
+                "descriptions": [
+                    "Responsibilities:",
+                    "Assisted customers with book selections and inquiries.",
+                    "Managed inventory and restocked shelves.",
+                    "Operated cash register and processed transactions accurately."
+                ]
+            },
+            {
+                "job_title": "Front Counter Attendant",
+                "company": "Harbor Burger Joint, Somerville, MA",
+                "time": "Duration: April 2017 - July 2019",
+                "descriptions": [
+                    "Responsibilities:",
+                    "Took customer orders and processed payments.",
+                    "Maintained cleanliness of dining area and restrooms.",
+                    "Provided friendly and efficient customer service."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Liberal Arts",
+                "university": "Fisher College, Boston, MA",
+                "time": "Degree Conferred: May 2016",
+                "descriptions": []
+            }
+        ],
+        "skills": [
+            "Cash handling",
+            "Customer service",
+            "Inventory management",
+            "Point of Sale (POS) systems",
+            "Team collaboration"
+        ],
+        "label": "low_chance"
+    }
+]
